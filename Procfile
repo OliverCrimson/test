@@ -1,1 +1,1 @@
-web: gunicorn depl.wsgi
+web: gunicorn depl.depl.wsgi
